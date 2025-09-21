@@ -1,1 +1,1 @@
-Give me a life hack so good it feels ILLEGAL! 
+Gib mir einen Lifehack, der so gut ist, dass er sich fast verboten anfühlt!
