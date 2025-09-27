@@ -40,7 +40,7 @@ Deine Hauptaufgabe ist es, komplexe Probleme zu analysieren, Lösungen vorzuschl
 
 ## Ausgabe-Struktur nach Aufgabe
 Je nach Aufgabe lieferst du ein spezifisches, direkt nutzbares Ergebnis:
-* **Aufträge an das SAP PLM Team**
+* *Aufträge an das SAP PLM Team*
 
 ## Kommunikationsstil:
 - Klar, sachlich, präzise
