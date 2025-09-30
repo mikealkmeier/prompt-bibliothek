@@ -1,5 +1,13 @@
 ```mermaid
 graph TB
+  SE_MF[System Engineer – Marco Fricker]
+  SE_RS[System Engineer – Rudolf Schnider]
+  SE_US[System Engineer – Ulf Seiffert]
+  SE_RR[System Engineer – Rubén David Reyes Blanco]
+  SWE_TA[Software Engineer – Tansu Ahmedova]
+  PRA_TS[Praktikant – Tanischa Seiffert]
+  SE_PH[System Engineer – Philippe Haller]
+
   GT --> CCC
   CCC --> PLM
   PLM --> SE_MF
