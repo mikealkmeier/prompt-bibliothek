@@ -1,3 +1,7 @@
+# Frage
+
+Das Organigram sieht wie folgt aus:
+
 ```mermaid
 graph TB
   GT[Group Technology – Leitung: Jörg Narr]
