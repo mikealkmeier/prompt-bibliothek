@@ -26,3 +26,41 @@ graph TB
   PLM --> SE_PH
 
 ```
+
+```mermaid
+flowchart TB
+  %% Ebenen als Subgraphs
+  subgraph GT[Group Technology]
+    JN[Jörg Narr – Leitung]
+  end
+
+  subgraph CCC[SAP Corporate Competence Center]
+    CS[Christina Schönung – Leitung]
+  end
+
+  subgraph PLM[SAP PLM (Platform Management)]
+    MA[Micha Altmeyer – Teamleitung]
+    MF[Marco Fricker – System Engineer]
+    RS[Rudolf Schnider – System Engineer]
+    US[Ulf Seiffert – System Engineer]
+    RR[Rubén David Reyes Blanco – System Engineer]
+    TA[Tansu Ahmedova – Software Engineer]
+    TS[Tanischa Seiffert – Praktikant]
+    PH[Philippe Haller – System Engineer]
+  end
+
+  %% Berichtslinien
+  JN --> CS
+  CS --> MA
+  MA --> MF
+  MA --> RS
+  MA --> US
+  MA --> RR
+  MA --> TA
+  MA --> TS
+  MA --> PH
+
+  %% Optionales Styling
+  classDef lead fill:#e8f4ff,stroke:#2b6cb0,color:#1a365d;
+  class JN,CS,MA lead;
+```
