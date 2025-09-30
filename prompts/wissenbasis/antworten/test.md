@@ -38,7 +38,7 @@ flowchart TB
     CS[Christina Schönung – Leitung]
   end
 
-  subgraph PLM[SAP PLM (Platform Management)]
+  subgraph PLM[SAP Platform Management]
     MA[Micha Altmeyer – Teamleitung]
     MF[Marco Fricker – System Engineer]
     RS[Rudolf Schnider – System Engineer]
