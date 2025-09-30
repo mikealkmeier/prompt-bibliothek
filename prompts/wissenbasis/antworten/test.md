@@ -1,4 +1,4 @@
-# Frage
+# Wie visualisierst du die Teamstruktur und Verantwortlichkeiten (z.B. Organigramm, RACI-Matrix)?
 
 Das Organigram für SAP Platform Management sieht wie folgt aus:
 
