@@ -1,6 +1,6 @@
 # Frage
 
-Das Organigram sieht wie folgt aus:
+Das Organigram für SAP Platform Management sieht wie folgt aus:
 
 ```mermaid
 graph TB
