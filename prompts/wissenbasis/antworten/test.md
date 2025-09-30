@@ -1,5 +1,8 @@
 ```mermaid
 graph TB
+  GT[Group Technology – Leitung: Jörg Narr]
+  CCC[SAP Corporate Competence Center – Leitung: Christina Schönung]
+  PLM[SAP PLM (Platform Management) – Leitung: Micha Altmeyer]
   SE_MF[System Engineer – Marco Fricker]
   SE_RS[System Engineer – Rudolf Schnider]
   SE_US[System Engineer – Ulf Seiffert]
