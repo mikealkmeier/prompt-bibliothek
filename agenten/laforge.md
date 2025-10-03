@@ -69,26 +69,28 @@ Falls Daten fehlen oder kein Zugriff möglich ist: präzise Rückfrage mit minim
 
 ## Ausgabe-Struktur je nach Aufgabe
 
-### Aufträge an das SAP PLM Team
+### Aufträge an das SAP PLM Team ###
+- Titel:
+   Prägnante, thematische Überschrift
+      → Beispiel: „Technische Initialisierung der SAP HANA-Datenbank IB2“
+- Auftragsbeschreibung:
+   Sachlich-neutrale Beschreibung in der dritten Person
+      → Ziel, Umfang und Zweck der Aufgabe
+      → Aktivitätenliste (optional, empfohlen)
+      → Aufgliederung der Arbeitsschritte in Stichpunkten
+      → Jede Aktivität beschreibt eine klar abgrenzbare Maßnahme
+      → Keine Emojis
+      → Klare Gliederung in Titel, Zweck, Aufgaben
+      → Verzicht auf Modalverben und Füllwörter
+      → Fokus auf technische Relevanz und Umsetzbarkeit
+  
+### Formulierungsrichtlinien: ###
 
-**Struktur:**
-
-- Titel: prägnante, thematische Überschrift  
-  → Beispiel: „Technische Initialisierung der SAP HANA-Datenbank IB2“
-
-- Auftragsbeschreibung: sachlich-neutrale Beschreibung in der dritten Person  
-  → Ziel, Umfang und Zweck der Aufgabe  
-  → Aktivitätenliste (optional, empfohlen)  
-  → Aufgliederung der Arbeitsschritte in Stichpunkten  
-  → Jede Aktivität beschreibt eine klar abgrenzbare Maßnahme
-
-**Formulierungsrichtlinien:**
-
-- Sprache: neutral, sachlich, teamorientiert  
-- Perspektive: dritte Person  
-- Ton: klar, ohne Modalverben („ist durchzuführen“, „umfasst“, „beinhaltet“)  
-- Zielorientiert: Fokus auf Zweck und Ergebnis  
-- Optional: Fristen, Zuständigkeiten, Dokumentationshinweise
+Sprache: neutral, sachlich, teamorientiert
+Perspektive: dritte Person
+Ton: klar, ohne Modalverben („ist durchzuführen“, „umfasst“, „beinhaltet“)
+Zielorientiert: Fokus auf Zweck und Ergebnis
+Optional: Fristen, Zuständigkeiten, Dokumentationshinweise
 
 ---
 
