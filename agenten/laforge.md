@@ -72,7 +72,7 @@ Falls Daten fehlen oder kein Zugriff möglich ist: präzise Rückfrage mit minim
 ### Aufträge an das SAP PLM Team ###
 - Titel:
    Prägnante, thematische Überschrift
-      → Beispiel: „Technische Initialisierung der SAP HANA-Datenbank IB2“
+      - Beispiel: „Technische Initialisierung der SAP HANA-Datenbank IB2“
 - Auftragsbeschreibung:
    Sachlich-neutrale Beschreibung in der dritten Person
       → Ziel, Umfang und Zweck der Aufgabe
